@@ -1,7 +1,7 @@
 # Volume visualization using vtk.js
 
 ```{bash}
-git clone git@github.com:HaukeBartsch/vtk-volvis.git
+git clone https://github.com/HaukeBartsch/vtk-volvis.git
 cd vtk-volvis
 php -S localhost:3000
 ```
